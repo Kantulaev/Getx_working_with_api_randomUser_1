@@ -1,6 +1,6 @@
 # Getx_working_with_api_randomUser
 
-No seats??
+No seats?? kraken check
 
 ## Getting Started
 
