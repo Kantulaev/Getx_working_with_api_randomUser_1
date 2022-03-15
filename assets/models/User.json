@@ -1,0 +1,570 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Rene",
+                "last": "Rogers"
+            },
+            "location": {
+                "street": {
+                    "number": 2365,
+                    "name": "Lovers Ln"
+                },
+                "city": "Norman",
+                "state": "Oregon",
+                "country": "United States",
+                "postcode": 94449,
+                "coordinates": {
+                    "latitude": "83.3319",
+                    "longitude": "-26.2435"
+                },
+                "timezone": {
+                    "offset": "-4:00",
+                    "description": "Atlantic Time (Canada), Caracas, La Paz"
+                }
+            },
+            "email": "rene.rogers@example.com",
+            "login": {
+                "uuid": "cc4379bf-9544-4a9f-bdef-170f332d678c",
+                "username": "tinyzebra170",
+                "password": "steffi",
+                "salt": "JtspNJ87",
+                "md5": "6409b504ba06e1076247b52f001f9272",
+                "sha1": "25177488f3df06119412ef7fb699b3810ddf81a7",
+                "sha256": "c2ba84af3c8d070d96e4143e67411a6f83bfe225a63348f53332ef37fcbffe1a"
+            },
+            "dob": {
+                "date": "1968-06-01T03:34:40.997Z",
+                "age": 54
+            },
+            "registered": {
+                "date": "2003-03-07T17:13:58.249Z",
+                "age": 19
+            },
+            "phone": "(121)-834-5738",
+            "cell": "(203)-640-6632",
+            "id": {
+                "name": "SSN",
+                "value": "214-55-5499"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/99.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Adriano",
+                "last": "da Conceição"
+            },
+            "location": {
+                "street": {
+                    "number": 2766,
+                    "name": "Rua Dezesseis de Maio"
+                },
+                "city": "Suzano",
+                "state": "Paraíba",
+                "country": "Brazil",
+                "postcode": 85983,
+                "coordinates": {
+                    "latitude": "-30.5447",
+                    "longitude": "128.1856"
+                },
+                "timezone": {
+                    "offset": "-4:00",
+                    "description": "Atlantic Time (Canada), Caracas, La Paz"
+                }
+            },
+            "email": "adriano.daconceicao@example.com",
+            "login": {
+                "uuid": "405971aa-5441-4789-97ff-1103444d8dbc",
+                "username": "happymeercat440",
+                "password": "megatron",
+                "salt": "RVADKEQD",
+                "md5": "c49e751f232a17a3cf8aa067e3ae57f8",
+                "sha1": "9d2d0a70b2e9e020f9ba9b3cb45276d49a03ac18",
+                "sha256": "1598920804beddc488e397b1f4521b1acc82e3358d1a9d57b4763c8c91ce8f47"
+            },
+            "dob": {
+                "date": "1948-11-21T06:59:33.095Z",
+                "age": 74
+            },
+            "registered": {
+                "date": "2003-10-16T00:15:26.314Z",
+                "age": 19
+            },
+            "phone": "(58) 2093-8921",
+            "cell": "(20) 0751-1769",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/72.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "رهام",
+                "last": "حیدری"
+            },
+            "location": {
+                "street": {
+                    "number": 8314,
+                    "name": "وحدت اسلامی"
+                },
+                "city": "ملارد",
+                "state": "یزد",
+                "country": "Iran",
+                "postcode": 66243,
+                "coordinates": {
+                    "latitude": "-14.1561",
+                    "longitude": "-8.9875"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "rhm.hydry@example.com",
+            "login": {
+                "uuid": "97a79696-11b8-4d40-b6ef-41300b822baf",
+                "username": "ticklishfrog441",
+                "password": "1passwor",
+                "salt": "fbzuQ66w",
+                "md5": "e80fe931bae0097e0772f73479651362",
+                "sha1": "f4b323ff6a5354fc2a2ade2db80cf2cbec3e31be",
+                "sha256": "2bad95d123ddd24b6ed40b573d1ea1e80dcc6265a9fc262af6b63a8feaf6222b"
+            },
+            "dob": {
+                "date": "1957-07-28T14:13:15.902Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2010-03-27T14:45:31.464Z",
+                "age": 12
+            },
+            "phone": "048-54436840",
+            "cell": "0915-348-1631",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/39.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Kadir",
+                "last": "Candan"
+            },
+            "location": {
+                "street": {
+                    "number": 1955,
+                    "name": "Vatan Cd"
+                },
+                "city": "Ankara",
+                "state": "Eskişehir",
+                "country": "Turkey",
+                "postcode": 27318,
+                "coordinates": {
+                    "latitude": "36.4748",
+                    "longitude": "-74.5940"
+                },
+                "timezone": {
+                    "offset": "-2:00",
+                    "description": "Mid-Atlantic"
+                }
+            },
+            "email": "kadir.candan@example.com",
+            "login": {
+                "uuid": "614ddcf9-1065-4aee-90d5-63766d87659e",
+                "username": "organicladybug872",
+                "password": "sweden",
+                "salt": "Hhr8jX8O",
+                "md5": "3ab1e8c37950bcfe6929bc21afc86674",
+                "sha1": "f6e657f944e95de109d78a6a953eb62ed25492db",
+                "sha256": "92b58dd126626bcc6f5bd285d333cdbbbc34f599d0e2600ec4940a52269b34e7"
+            },
+            "dob": {
+                "date": "1974-04-25T11:24:44.213Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2007-12-27T13:50:07.973Z",
+                "age": 15
+            },
+            "phone": "(845)-089-7155",
+            "cell": "(002)-154-8148",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Kerttu",
+                "last": "Rajala"
+            },
+            "location": {
+                "street": {
+                    "number": 8353,
+                    "name": "Verkatehtaankatu"
+                },
+                "city": "Suonenjoki",
+                "state": "Kymenlaakso",
+                "country": "Finland",
+                "postcode": 12372,
+                "coordinates": {
+                    "latitude": "-1.7846",
+                    "longitude": "-173.0626"
+                },
+                "timezone": {
+                    "offset": "-7:00",
+                    "description": "Mountain Time (US & Canada)"
+                }
+            },
+            "email": "kerttu.rajala@example.com",
+            "login": {
+                "uuid": "2856e295-2e77-4463-b153-824f2cfae97d",
+                "username": "angryfrog367",
+                "password": "fight",
+                "salt": "iEUaHXAr",
+                "md5": "2ba732a768412c2058c16d2f611770c8",
+                "sha1": "276e23346245628c87f9daeb280b80a72476ac35",
+                "sha256": "3513ecc68276aa2b258cb7cbb03c8ffc018d3ed966576c3c9ce1360b0f1704b2"
+            },
+            "dob": {
+                "date": "1964-08-10T17:20:24.930Z",
+                "age": 58
+            },
+            "registered": {
+                "date": "2016-02-05T17:33:31.247Z",
+                "age": 6
+            },
+            "phone": "06-546-399",
+            "cell": "047-642-15-16",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA578undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/63.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+            },
+            "nat": "FI"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Jayden",
+                "last": "Kelley"
+            },
+            "location": {
+                "street": {
+                    "number": 5386,
+                    "name": "The Grove"
+                },
+                "city": "Nottingham",
+                "state": "Warwickshire",
+                "country": "United Kingdom",
+                "postcode": "Q4I 3DG",
+                "coordinates": {
+                    "latitude": "8.7011",
+                    "longitude": "-61.4190"
+                },
+                "timezone": {
+                    "offset": "+9:00",
+                    "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+                }
+            },
+            "email": "jayden.kelley@example.com",
+            "login": {
+                "uuid": "1d691eec-2880-4142-87d2-7e7b7cd2dfd3",
+                "username": "goldenwolf407",
+                "password": "tazmania",
+                "salt": "rAsvSsa2",
+                "md5": "95f3a6368a519c5c47b57fbec36855ac",
+                "sha1": "6659f7036a0a3032eb2fab90e3086dac36956403",
+                "sha256": "25487375895082191018aa2a4fa18c3f82a23342cdf9ad853ffbbe120f5aa379"
+            },
+            "dob": {
+                "date": "1979-04-25T03:38:34.016Z",
+                "age": 43
+            },
+            "registered": {
+                "date": "2018-10-05T10:57:37.044Z",
+                "age": 4
+            },
+            "phone": "015394 68080",
+            "cell": "0741-209-211",
+            "id": {
+                "name": "NINO",
+                "value": "SL 36 95 93 G"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/66.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Kristina",
+                "last": "Rice"
+            },
+            "location": {
+                "street": {
+                    "number": 2557,
+                    "name": "Lakeshore Rd"
+                },
+                "city": "Coffs Harbour",
+                "state": "Western Australia",
+                "country": "Australia",
+                "postcode": 3048,
+                "coordinates": {
+                    "latitude": "-85.2546",
+                    "longitude": "-130.0151"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "kristina.rice@example.com",
+            "login": {
+                "uuid": "7c08c645-0545-4ca8-86a5-ffba73381a9b",
+                "username": "organicostrich504",
+                "password": "slave1",
+                "salt": "tA7pMzp0",
+                "md5": "9e80ce58339e2275ccb04c09aca18c4a",
+                "sha1": "c141505031a0397d90953264cbfe11d47ef354db",
+                "sha256": "3b783faae8eab790c9908615c531ece8c59bf327e3d452688741611e85a0d49f"
+            },
+            "dob": {
+                "date": "1969-05-01T06:59:08.494Z",
+                "age": 53
+            },
+            "registered": {
+                "date": "2011-08-07T23:25:52.879Z",
+                "age": 11
+            },
+            "phone": "07-2011-2217",
+            "cell": "0428-035-122",
+            "id": {
+                "name": "TFN",
+                "value": "033795895"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/85.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+            },
+            "nat": "AU"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Janis",
+                "last": "Van Zwieten"
+            },
+            "location": {
+                "street": {
+                    "number": 4139,
+                    "name": "Havezatherweg"
+                },
+                "city": "Opheusden",
+                "state": "Noord-Holland",
+                "country": "Netherlands",
+                "postcode": 63041,
+                "coordinates": {
+                    "latitude": "60.0809",
+                    "longitude": "21.4182"
+                },
+                "timezone": {
+                    "offset": "+8:00",
+                    "description": "Beijing, Perth, Singapore, Hong Kong"
+                }
+            },
+            "email": "janis.vanzwieten@example.com",
+            "login": {
+                "uuid": "577e8e9e-e464-45b4-8de5-f5afa64027a5",
+                "username": "purplezebra168",
+                "password": "call",
+                "salt": "0ktGnXB5",
+                "md5": "f9fe0a323d1f499e4eb7df22dea5d114",
+                "sha1": "0d5c1a3504145e07d8250785507151ba891ce6ef",
+                "sha256": "151606dc21056b6d60217ee6f1540416c669d942c51df292451ce2b528045b5f"
+            },
+            "dob": {
+                "date": "1974-11-04T07:17:53.858Z",
+                "age": 48
+            },
+            "registered": {
+                "date": "2014-10-15T03:14:18.106Z",
+                "age": 8
+            },
+            "phone": "(249)-756-6518",
+            "cell": "(420)-342-0739",
+            "id": {
+                "name": "BSN",
+                "value": "97474790"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+            },
+            "nat": "NL"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Lawrence",
+                "last": "Willis"
+            },
+            "location": {
+                "street": {
+                    "number": 4481,
+                    "name": "Queens Road"
+                },
+                "city": "City of London",
+                "state": "Suffolk",
+                "country": "United Kingdom",
+                "postcode": "QW3K 2TS",
+                "coordinates": {
+                    "latitude": "-17.7768",
+                    "longitude": "54.2972"
+                },
+                "timezone": {
+                    "offset": "-5:00",
+                    "description": "Eastern Time (US & Canada), Bogota, Lima"
+                }
+            },
+            "email": "lawrence.willis@example.com",
+            "login": {
+                "uuid": "840caea8-ad9c-45b4-b3f9-e2ef0279abdf",
+                "username": "crazyostrich193",
+                "password": "guyver",
+                "salt": "nX5EjQy8",
+                "md5": "812603781d998cd4639bdb8694308d13",
+                "sha1": "785025051b70c572c5d8c84048cf52801503c2d6",
+                "sha256": "9362ca81f083d150f041335f9c44e7cc522f0a9020d0969d56feb8b03e1ccfe8"
+            },
+            "dob": {
+                "date": "1990-01-12T14:47:54.894Z",
+                "age": 32
+            },
+            "registered": {
+                "date": "2014-07-15T07:59:37.770Z",
+                "age": 8
+            },
+            "phone": "013873 32919",
+            "cell": "0760-570-480",
+            "id": {
+                "name": "NINO",
+                "value": "EG 27 33 41 C"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/49.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Lia",
+                "last": "Le Gall"
+            },
+            "location": {
+                "street": {
+                    "number": 3781,
+                    "name": "Rue des Écoles"
+                },
+                "city": "Saint-Étienne",
+                "state": "Isère",
+                "country": "France",
+                "postcode": 76815,
+                "coordinates": {
+                    "latitude": "-55.5842",
+                    "longitude": "-106.4965"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "lia.legall@example.com",
+            "login": {
+                "uuid": "c4d7ae1d-0ceb-42f1-b6bf-c92dcd131179",
+                "username": "organicladybug433",
+                "password": "drum",
+                "salt": "t1KPUPmX",
+                "md5": "f9ec82f7ef74e8bab0bfe156710ca930",
+                "sha1": "3f875e3e1248035c4921a014ffc305ed8ec30575",
+                "sha256": "847f0a8e38a31dc0725c1a1d6e083532dab6f76a15ec9ac7d7cbfd6ea2eaa46a"
+            },
+            "dob": {
+                "date": "1956-06-22T23:29:20.304Z",
+                "age": 66
+            },
+            "registered": {
+                "date": "2005-06-19T11:19:41.445Z",
+                "age": 17
+            },
+            "phone": "05-53-47-63-40",
+            "cell": "06-47-36-33-09",
+            "id": {
+                "name": "INSEE",
+                "value": "2NNaN56415783 73"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/54.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "a97b3abb2f04fce8",
+        "results": 10,
+        "page": 1,
+        "version": "1.3"
+    }
+}
