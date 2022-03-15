@@ -1,6 +1,6 @@
-# flutter_application_2_api_1
+# Getx_working_with_api_randomUser
 
-A new Flutter project.
+No seats??
 
 ## Getting Started
 
